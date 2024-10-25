@@ -1,4 +1,4 @@
-module ydbcp
+module github.com/r4start/ydbcp
 
 go 1.22
 
